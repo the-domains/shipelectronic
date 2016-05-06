@@ -4,8 +4,15 @@
         <description><![CDATA[ShipElectronic]]></description>
         <link>https://thegrid.ai/shipelectronic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 12:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 12:30:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shipelectronic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alstom drive power card]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90b4c4c0-a7d8-468e-a281-d50e93d18354.jpg">]]></description>
+            <link>https://thegrid.ai/shipelectronic/alstom-drive-power-card/index.html</link>
+            <guid isPermaLink="false">30cd31a2-e8f5-482f-84a9-f3610ec01145</guid>
+            <pubDate>Fri, 06 May 2016 12:30:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alstom Cargo pump drive]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c4a498-69a6-42d6-a998-1063ac231ebd.jpg">]]></description>

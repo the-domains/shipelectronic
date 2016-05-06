@@ -1,6 +1,6 @@
 name: ShipElectronic
 favicon: null
-layout_spectrum: 0.27812
+layout_spectrum: 0.72806
 typography_spectrum: 1
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.1875
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5

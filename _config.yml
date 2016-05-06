@@ -2,6 +2,7 @@ name: ShipElectronic
 favicon: null
 layout_spectrum: 0.72806
 typography_spectrum: 1
+title: ShipElectronic
 cta:
   domain: null
   bucket: null

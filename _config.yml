@@ -1,6 +1,6 @@
 name: ShipElectronic
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.7270012
 typography_spectrum: 1
 title: ShipElectronic
 collections:
@@ -20,7 +20,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-28806933-3
   facebook: null
   twitter: null
 opengraph:

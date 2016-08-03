@@ -1,8 +1,30 @@
-name: ShipElectronic
-favicon: null
-layout_spectrum: 0.49121
 typography_spectrum: 1
-title: ShipElectronic
+color:
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#0f683a'
+    - '#2e2e2e'
+    - '#bcbcbc'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49121
+analytics:
+  google: UA-28806933-3
+  facebook: null
+  twitter: null
+name: ShipElectronic
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-28806933-3
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#0f683a'
-    - '#2e2e2e'
-    - '#bcbcbc'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+title: ShipElectronic
+description: removing age from older ship automation electronics
 purpose: []

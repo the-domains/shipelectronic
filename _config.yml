@@ -38,5 +38,5 @@ collections:
       format: rss
       number: 10
 title: ShipElectronic
-description: removing age from older ship automation
+description: ' antiaging for older ship automation'
 purpose: []
